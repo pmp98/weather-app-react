@@ -1,3 +1,13 @@
+# Output
+
+![weather-app-1](https://user-images.githubusercontent.com/90986745/232315945-fe3b6a39-c768-4823-9374-64c2e1ea7abb.png)
+
+![weather-app-2](https://user-images.githubusercontent.com/90986745/232315989-f8a7ac60-adf4-484a-8000-b5e1f1677ca0.png)
+
+![weather-app-3](https://user-images.githubusercontent.com/90986745/232316001-3ff6513d-7200-49c7-9375-0c6083beacb5.png)
+
+![weather-app-4](https://user-images.githubusercontent.com/90986745/232316013-5975ae1a-2b3d-4ad4-b2d2-221707816d54.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
